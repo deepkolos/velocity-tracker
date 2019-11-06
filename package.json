@@ -1,0 +1,30 @@
+{
+  "name": "velocity-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc index.ts -d",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepkolos/velocity-tracker.git"
+  },
+  "types": "index.d.ts",
+  "keywords": [
+    "velocity",
+    "tracker",
+    "velocityTracker",
+    "velocity-tracker"
+  ],
+  "author": "DeepKolos <deepkolos@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deepkolos/velocity-tracker/issues"
+  },
+  "homepage": "https://github.com/deepkolos/velocity-tracker#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  }
+}
